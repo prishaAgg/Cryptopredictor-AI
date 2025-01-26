@@ -1,4 +1,3 @@
-```markdown
 # BTC Price Prediction with LSTM
 
 This project demonstrates how to use an **LSTM (Long Short-Term Memory)** neural network to predict BTC prices. It includes steps for data preprocessing, calculating technical indicators (e.g., **MACD**, **RSI**), preparing data sequences for LSTM, training the model, and finally testing the model on new data.
